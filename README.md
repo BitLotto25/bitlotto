@@ -1,0 +1,2 @@
+# BittLotto
+Bitcoin Lottery Website
