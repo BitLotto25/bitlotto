@@ -1,2 +1,2 @@
-# BittLotto
+# BitLotto
 Bitcoin Lottery Website
